@@ -1,0 +1,11 @@
+body { padding-top: 50px; }
+
+.splash {
+  height: 35em;
+  padding-top: 20em;
+  margin-bottom: 2em;
+  background-image: url("../images/5203_1r_dark.jpg");
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
